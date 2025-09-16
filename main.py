@@ -245,4 +245,5 @@ if __name__ == '__main__':
     #display_maze(solved_maze)
     plot_maze(raw_grid)
     plot_maze(solved_maze)
-    
+
+# Program by Pedro Oubiña S. 2025
